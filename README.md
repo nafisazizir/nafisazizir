@@ -2,7 +2,7 @@
 
 Hey there! I'm Nafis, a sophomore undergraduate CS student at the Universitas Indonesia, currently I'm purusing double degree program where I will be continue my study at the University of Queensland on Feb '24. I constantly strive to contribute to my community through innovative projects and ideas.
 
-You can find out more about me on my [personal website](nafisazizi.com) and take a look at my [resume]() for a detailed overview.
+You can find out more about me on my [personal website](https://nafisazizi.com/) and take a look at my [resume]() for a detailed overview.
 
 # What I'm Currently Engaged In ✏️
 - Working on a side projects
