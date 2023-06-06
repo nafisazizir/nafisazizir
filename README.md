@@ -5,7 +5,7 @@ Hey there! I'm Nafis, a sophomore undergraduate CS student at the Universitas In
 You can find out more about me on my [personal website](https://nafisazizi.com/) and take a look at my [resume]() for a detailed overview.
 
 # What I'm Currently Engaged In ✏️
-- Working on a side projects
+- Working on a side projects, course catalog, course search, and timetable generator for my university.
 
 # Accomplishments and Experiences 🏅
 - Assisted as a Teaching Assistant for courses on Foundations of Programmin, where I instructed and supported students in an introduction to programming in Python
