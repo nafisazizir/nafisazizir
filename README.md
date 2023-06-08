@@ -9,7 +9,7 @@ You can find out more about me on my [personal website](https://nafisazizi.com/)
 
 # Accomplishments and Experiences 🏅
 - Assisted as a Teaching Assistant for courses on Foundations of Programmin, where I instructed and supported students in an introduction to programming in Python
-- Expanded my horizons through a study abroad program at National University of Singapore (NUS), where I explored courses in Design & Analysis of Algorithm, Interaction Design, Computer Network, Software Engineering & OOP, and Programming Methodology II and had the opportunity to immerse myself in the vibrant culture.
+- Expanded my horizons through a study abroad program at National University of Singapore (NUS), where I explored courses in Design & Analysis of Algorithm, Interaction Design, Computer Network, Software Engineering & OOP, and Programming Methodology II and had the opportunity to immerse myself in the vibrant culture (and travelled SEA 😁).
 
 # Future Goals and Aspirations 🚀
 - Engaging in side projects that allow me to create a positive impact on the world.
