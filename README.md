@@ -1,8 +1,6 @@
 # Nafis Azizi Riza - @nafisazizir
 
-Hey there! I'm Nafis, a rising junior undergraduate CS student at the Universitas Indonesia, currently I'm pursuing double degree program where I will be continue my study at the University of Queensland on Feb '24. I constantly strive to contribute to my community through innovative projects and ideas.
-
-You can find out more about me on my [personal website](https://nafisazizi.com/) and take a look at my [resume](https://resume.nafisazizi.com/) for a detailed overview.
+Hey there! I'm Nafis, a rising junior undergraduate CS student at the Universitas Indonesia, currently I'm pursuing double degree program where I will be continue my study at the University of Queensland on Feb '24. I constantly strive to contribute to my community through innovative projects and ideas
 
 # What I'm Currently Engaged In ✏️
 - Working on a side projects, course catalog, course search, and timetable generator for my university.
