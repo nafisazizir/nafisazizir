@@ -3,7 +3,7 @@
 Hey there! I'm Nafis, a rising junior undergraduate CS student at the Universitas Indonesia, currently I'm pursuing double degree program where I will be continue my study at the University of Queensland on Feb '24. I constantly strive to contribute to my community through innovative projects and ideas
 
 # What I'm Currently Engaged In ✏️
-- Working on a side projects, course catalog, course search, and timetable generator for my university.
+- Working on a side projects, attend some hackathons.
 
 # Accomplishments and Experiences 🏅
 - Assisted as a Teaching Assistant for courses on Foundations of Programmin, where I instructed and supported students in an introduction to programming in Python
