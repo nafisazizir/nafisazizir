@@ -1,6 +1,6 @@
 # Nafis Azizi Riza - @nafisazizir
 
-Hey there! I'm Nafis, a rising junior undergraduate CS student at the Universitas Indonesia, currently I'm pursuing double degree program where I will be continue my study at the University of Queensland on Feb '24. I constantly strive to contribute to my community through innovative projects and ideas
+Hey there! I'm Nafis, a junior undergraduate CS student at the Universitas Indonesia, currently I'm pursuing double degree program where I will be continue my study at the University of Queensland on Feb '24. I constantly strive to contribute to my community through innovative projects and ideas
 
 # What I'm Currently Engaged In ✏️
 - Working at Telkom Indonesia
@@ -8,7 +8,8 @@ Hey there! I'm Nafis, a rising junior undergraduate CS student at the Universita
 - Attend some hackathons 
 
 # Accomplishments and Experiences 🏅
--  1st Place Youth Empowerement Hack at Garuda Hacks, The biggest Hackathon in South East Asia. Check out the [project](peopl.nafisazizi.com).
+- 3rd Place National at Nasa Space App - Jakarta local event, nominated for the Global Nasa Space App. [Project]{https://github.com/nafisazizir/sparc-frontend}
+- 1st Place Youth Empowerement Hack at Garuda Hacks, The biggest Hackathon in South East Asia. Check out the [project](peopl.nafisazizi.com).
 - Assisted as a Teaching Assistant for courses on Foundations of Programmin, where I instructed and supported students in an introduction to programming in Python
 - Expanded my horizons through a study abroad program at National University of Singapore (NUS), where I explored courses in Design & Analysis of Algorithm, Interaction Design, Computer Network, Software Engineering & OOP, and Programming Methodology II and had the opportunity to immerse myself in the vibrant culture (and travelled SEA 😁).
 
