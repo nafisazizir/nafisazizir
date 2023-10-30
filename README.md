@@ -16,7 +16,7 @@ Hey there! I'm Nafis, a junior undergraduate CS student at the Universitas Indon
 # Future Goals and Aspirations 🚀
 - Engaging in side projects that allow me to create a positive impact on the world.
 - Grow as a person of course :)
-- Getting better at surfing 🏄🏻‍♂️😝
+- Getting better at surfing 🏄🏻‍♂️😝 - I hope
 
 # Let's Connect! 🤝🏻
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/nafisazizi/) or send me an email at [nafisredzone@gmail.com](mailto:nafisredzone@gmail.com). I'm always open to meeting new people and collaborating on exciting projects!
