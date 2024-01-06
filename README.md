@@ -2,6 +2,8 @@
 
 Hey there! I'm Nafis, a junior undergraduate CS student at the Universitas Indonesia, currently I'm pursuing double degree program where I will be continue my study at the University of Queensland on Feb '24. I constantly strive to contribute to my community through innovative projects and ideas
 
+Check out [my website]([https://www.linkedin.com/in/nafisazizi/](https://nafisazizi.com/)) to learn more about myself and read some of my writings!
+
 # What I'm Currently Engaged In ✏️
 - Working at Telkom Indonesia
 - Working on a side projects, course catalog, course search, and timetable generator specialized for my university. It's live now! Go check it out [here](matkulgue.nafisazizi.com).
