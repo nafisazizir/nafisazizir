@@ -21,7 +21,7 @@ Check out [my website](https://nafisazizi.com/) to learn more about myself and r
 - Getting better at surfing 🏄🏻‍♂️😝 - I hope
 
 # Let's Connect! 🤝🏻
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/nafisazizi/) or send me an email at [nafisredzone@gmail.com](mailto:nafisredzone@gmail.com). I'm always open to meeting new people and collaborating on exciting projects!
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/nafisazizi/) or send me an email at [nafisaziziriza@gmail.com](mailto:nafisaziziriza@gmail.com). I'm always open to meeting new people and collaborating on exciting projects!
 
 # Tech Stacks
 
