@@ -1,11 +1,11 @@
 # Nafis Azizi Riza - @nafisazizir
 
-Hey there! I'm Nafis, an undergraduate CS student at the Universitas Indonesia, currently pursuing a double degree program both in Bachelor of Computer Science at The University of Queensland, Australia, and University of Indonesia. I'm a high-performing Software Engineer with a deep love for problem-solving and creating innovative solutions. I constantly strive to contribute to my community through innovative projects, ideas and making a positive impacts.
+Hey there! I'm Nafis, an undergraduate CS student at the University of Queensland, currently pursuing a double degree program both in Bachelor of Computer Science at The University of Queensland, Australia, and University of Indonesia. I'm a high-performing Software Engineer with a deep love for problem-solving and creating innovative solutions. I constantly strive to contribute to my community through innovative projects, ideas and making a positive impacts.
 
 Check out [my website](https://nafisazizi.com/) to learn more about myself and read some of my writings!
 
 # What I'm Currently Engaged In ✏️
-- Exploring ML/AI fields through interesting courses at The University of Queensland.
+- Exploring AI/ML fields through interesting courses at The University of Queensland.
 - Solving DSA problems & CP-like problem set in my leisure time. Somehow I find it quite enjoyable :D.
 - Attending some hackathons.
 
