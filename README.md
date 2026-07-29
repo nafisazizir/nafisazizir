@@ -1,6 +1,6 @@
 # Nafis Azizi Riza — @nafisazizir
 
-I'm a software engineer based in Australia. Currently at Avenue Labs, building AI agent systems, mostly voice and call agents, living deep in TypeScript. Previously Telkom Indonesia.
+I'm a software engineer based in Australia. Currently at [Avenue Labs](https://www.avenue2.au/), building AI agent systems, mostly voice and call agents, living deep in TypeScript. Previously Telkom Indonesia.
 
 On the side I build developer tools at the intersection of AI and productivity. [skilldex](https://github.com/nafisazizir/skilldex), a CLI for indexing agent skills into passive context. Devtools for voice agents, what I'm building now. A personal MCP server that turns my own training data into something an agent can reason about. Two apps on the Canva Apps Marketplace, [Wave Generator](https://www.canva.com/apps/AAFqLcWRTT0/wave-generator) and [Shade](https://www.canva.com/apps/AAFrrz7ML5E/shade).
 
