@@ -6,4 +6,4 @@ On the side I build developer tools at the intersection of AI and productivity. 
 
 Most of what's here is that, plus a lot of small things I shipped while studying computer science at the University of Queensland and the University of Indonesia.
 
-[nafisazizir.com](https://nafisazizir.com) · [x.com/nafisazizir](https://x.com/nafisazizir) · [hello@nafisazizir.com](mailto:hello@nafisazizir.com)
+[nafisazizir.com](https://nafisazizir.com/gh) · [x.com/nafisazizir](https://x.com/nafisazizir) · [hello@nafisazizir.com](mailto:hello@nafisazizir.com)
